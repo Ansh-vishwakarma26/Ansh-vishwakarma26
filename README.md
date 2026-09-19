@@ -1,14 +1,81 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br> A Char Dham Yatra guide web app and a social media web app.<br><br>👯 I’m looking to collaborate on: <br>AWS cloud infrastructure setups and bringing Figma UI/UX designs to life in code.<br><br>🤝 I’m looking for help with: <br>Advanced AWS architecture concepts as I prepare for my certifications, <br>and optimizing local AI models with Node-Llama-CPP.<br><br>🌱 I’m currently learning: <br>Python development, cloud engineering through AWS Cloud Quest labs,<br> and mastering AI-driven dev tools like Antigravity IDE.<br><br>⚡ Fun fact: I'm a massive audiophile who loves diving deep into the musical world and geeking out over high-fidelity IEMs. <br>When my earphones are out, I'm usually watching anime and appreciating its incredible storytelling and stunning animation!
+# 👋 Hi, I'm Ansh Vishwakarma
 
+🎓 Computer Science and Engineering student interested in **Machine Learning, Applied AI, Data Analytics, and AWS Cloud**.
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anshvish26@gmail.com) 
+I enjoy building practical projects with Python and continuously improving my understanding of machine learning and software development.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+## 💫 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 Currently working on **Machine Learning and Data Analytics projects**
+- 🌱 Currently learning **Machine Learning, Applied AI, AWS Cloud, SQL, and Git/GitHub**
+- 🤖 Interested in **Machine Learning, Artificial Intelligence, and Applied AI**
+- ☁️ Exploring **AWS Cloud and cloud computing fundamentals**
+- 🛠️ Building projects using **Python, Pandas, NumPy, Matplotlib, Scikit-learn, and Streamlit**
+- 📚 Strengthening my foundation in **Data Structures, OOP, and software development**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 Machine Learning & AI
+
+- Supervised Learning
+- Regression
+- Classification
+- Unsupervised Learning
+- Deep Learning
+- Reinforcement Learning
+
+## 💻 Tech Stack
+
+### Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Data & Machine Learning
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+## 🚀 Projects
+
+### 🏠 House Price Prediction
+Machine learning application built with Python, Pandas, NumPy, scikit-learn, and Streamlit.
+
+- Preprocessed numerical and categorical features
+- Built a Linear Regression model
+- Evaluated model performance using R² and MAE
+- Developed an interactive Streamlit interface
+
+### 📊 Telco Customer Churn Prediction
+Machine learning project focused on analyzing and predicting customer churn.
+
+- Performed exploratory data analysis
+- Preprocessed missing and categorical data
+- Prepared data for classification
+- Evaluated model performance using classification metrics
+
+## 📜 Certifications & Learning
+
+- AWS Cloud Quest: Cloud Practitioner — AWS
+- CyberOps Associate — Cisco Networking Academy
+- Python Essentials — Cisco Networking Academy
+- Data Analytics Essentials — Cisco Networking Academy
+- AI/ML — IBM SkillsBuild
+
+## 🌱 Currently Learning
+
+- SQL
+- Git & GitHub
+- Machine Learning
+- Applied AI
+- AWS Cloud
+
+## 📫 Connect With Me
+
+- 📧 Email: anshvish26@gmail.com
+- 💼 LinkedIn: [Ansh Vishwakarma](https://www.linkedin.com/in/ansh-vishwakarma26/)
