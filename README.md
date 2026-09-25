@@ -82,4 +82,3 @@ Machine learning project focused on analyzing and predicting customer churn.
 ## 📫 Connect With Me
 
 - 📧 Email: anshvish26@gmail.com
-- 💼 LinkedIn: [Ansh Vishwakarma](https://www.linkedin.com/in/ansh-vishwakarma26/)
